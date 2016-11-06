@@ -8,3 +8,37 @@ body, html {
 	height: 100%;
 	margin: 0%;
 }
+
+body {
+  margin-top: 50px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #146008;
+}
+
+.navbar-default {
+  background-color: white;
+}
+
+.navbar-brand {
+  padding: 0;
+  padding-top: 5px;
+}
+
+.brand-icon {
+  height: 40px;
+  border-radius: 50%;
+  display: block;
+  line-height: 100%;
+}
+
+.message {
+  color: #484848;
+  background: black;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+}
