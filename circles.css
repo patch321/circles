@@ -9,10 +9,6 @@ body, html {
 	margin: 0%;
 }
 
-body {
-  margin-top: 50px;
-}
-
 .navbar-default .navbar-nav>li>a {
   color: #146008;
 }
